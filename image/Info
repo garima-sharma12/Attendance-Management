@@ -1,1 +1,3 @@
 Contains students images for dataset
+The images have to saved in the name format:
+user.{id}.{img_id}.jpg
