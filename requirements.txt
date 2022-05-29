@@ -1,0 +1,6 @@
+tk
+face_recognition
+mysql.connector
+Pillow
+opencv_python
+numpy 
