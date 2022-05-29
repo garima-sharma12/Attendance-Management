@@ -25,6 +25,8 @@ Also create a csv file named attendance.
 Click on the student details button and register a new candidate and also update the already registered students in the record. 
 
 5. The data set can also be uploaded without using a live web cam by clicking the images button on the main screen. Make sure that the user is registered and the image are saved with a name in the standard format.
+The laptop camera can be used or a wired webcam connected to it. 
+
 
 6. Close the student details window and then on the main screen click on the add attendance button which redirects to a new window. Click on the button and wait for the web cam to get started. It records your attendance and adds it to a csv file named attendance.
 
