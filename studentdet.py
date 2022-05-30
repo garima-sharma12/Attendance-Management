@@ -412,7 +412,7 @@ class Student:
                     for (x, y, w, h) in faces:
                         face_resize = img[y:y+h, x:x+w]
                         return face_resize
-                cap = cv2.VideoCapture(1)
+                cap = cv2.VideoCapture(0)
                 img_id = 0
                 while True:
                     val, frame = cap.read()
